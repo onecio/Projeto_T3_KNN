@@ -3,7 +3,7 @@
 # Equipe 16
 
 # Nome:
-*Onécio Araujo Ribeiro*
+*Onécio Araujo Ribeiro* \
 *Janailton Ferreira da Costa*
 
 
@@ -42,6 +42,6 @@ Visualização dos Resultados: Criou-se gráficos informativos para exibir o des
 O modelo kNN otimizado previu com sucesso o influence_score, demonstrando uma capacidade robusta de generalizar insights a partir do conjunto de dados do Instagram. O projeto fornece uma estrutura para melhorias futuras, incluindo modelos que incorporam classificações de dados da Ásia, Oceania e África.
 
 # Como Usar
-Clone o repositório: git clone https://github.com/onecio/Projeto_T3_KNN
-Importe o Data Frame do Projeto: "insta.csv"
+Clone o repositório: git clone https://github.com/onecio/Projeto_T3_KNN \
+Importe o Data Frame do Projeto: "insta.csv" \
 Abra e execute o notebook em um ambiente Google Colab.
