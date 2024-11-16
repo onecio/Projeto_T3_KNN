@@ -3,7 +3,8 @@
 # Equipe 16
 
 # Nome:
-Onécio Araujo Ribeiro
+*Onécio Araujo Ribeiro*
+*Janailton Ferreira da Costa*
 
 
 # Análise de Dados do Instagram e Modelagem Preditiva usando k-Nearest Neighbors (kNN)
